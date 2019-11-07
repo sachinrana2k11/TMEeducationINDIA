@@ -1,0 +1,8 @@
+
+{
+  "GPS_type": "UBLOX_M8N",
+  "BaudRate": "9600",
+  "COM_PORT": "COM2",
+  "EXT_NAME": "GPGGA",
+  "Time": "1"
+}
